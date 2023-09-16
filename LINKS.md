@@ -17,6 +17,7 @@ Este arquivo Markdown serve como um repositório de recursos e vídeos relaciona
 - [Bright green environmentalism](https://en.wikipedia.org/wiki/Bright_green_environmentalism)
 - [Applied Hope: The Solarpunk & Utopias Jam](https://itch.io/jam/applied-hope)
 - [Solarpunk: Post-Industrial Design and Aesthetics](https://medium.com/@erichunting/solarpunk-post-industrial-design-and-aesthetics-1ecb350c28b6)
+- [Bright green environmentalism](https://en.m.wikipedia.org/wiki/Bright_green_environmentalism)
 - [Solarpunk 101: A Crash Course for BVG (And Everyone Else)](https://forums.yoworld.com/viewtopic.php?f=2&t=218674)
 - [GoodReads - Listopia - Solarpunk](https://www.goodreads.com/list/show/89580.Solarpunk)
 - [Agricultura Comunitária - Rede Geek Poadcast](https://open.spotify.com/episode/0yy2kJw6seW6ID1wJN0MVI?si=0jsVSfHZRPKXGR-H1yLJww&utm_source=native-share-menu&nd=1)
