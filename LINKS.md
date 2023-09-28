@@ -42,6 +42,16 @@ Este arquivo Markdown serve como um repositório de recursos e vídeos relaciona
 
 - [Nações Unidas - O que são as mudanças climáticas?](https://brasil.un.org/pt-br/175180-o-que-são-mudanças-climáticas) - As mudanças climáticas são transformações a longo prazo nos padrões de temperatura e clima. Saiba mais nessa página especial das Nações Unidas sobre o tema.
 - [Sunbeam City's](https://wiki.sunbeam.city/doku.php) - Bem-vindo ao wiki de Sunbeam City. Sunbeam City é um coletivo solarpunk.
+- [The Center for Solarpunk Studies](https://solarpunk.cool/)
+- [Solarpunk Magazine](https://www.solarpunkmagazine.com/)
+- [Sunrise Movement](https://www.sunrisemovement.org/)
+- [Solarpunk Action Network](https://www.solarpunkactionnetwork.com/)
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/)
+- [The Solarpunk Manifesto](https://solarpunkmanifesto.com/)
+- [Solarpunk Anarchist](https://solarpunkanarchists.com/)
+- [Solarpunk City](https://www.solarpunkcity.com/)
+- [The Solstice Blog](https://solstice.coop/blog/)
+- [Solarpunk Research](https://solarpunk.carrd.co/)
 
 ### Maker e DIY
 
