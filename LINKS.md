@@ -7,6 +7,7 @@ Este arquivo Markdown serve como um repositório de recursos e vídeos relaciona
 ### Artigos e Leituras
 
 - [How VR Could Show the Future of Climate Change](https://www.lifewire.com/how-vr-could-show-the-future-of-climate-change-5189623)
+- [No Cash, No Coins, No Cards, But You: Biohacking the Future of Payments](https://link.springer.com/chapter/10.1007/978-3-031-33246-3_16)
 - [Cientistas conseguem transformar plástico em proteína comestível](https://canaltech.com.br/inovacao/cientistas-conseguem-transformar-plastico-em-proteina-comestivel-190900/)
 - [Amazon rainforest now emitting more CO2 than it absorbs](https://www.theguardian.com/environment/2021/jul/14/amazon-rainforest-now-emitting-more-co2-than-it-absorbs)
 - [What is solarpunk and can it help save the planet?](https://www.bbc.com/news/business-57761297.amp#aoh=16294057577826&amp_ct=1629405765182&referrer=https%3A%2F%2Fwww.google.com&amp_tf=Fonte%3A%20%251%24s)
